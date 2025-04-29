@@ -4,17 +4,42 @@
     <projectFile profileName="http">COMP003B.LectureActivity6/COMP003B.LectureActivity6.csproj</projectFile>
     <projectFile profileName="https">COMP003B.LectureActivity6/COMP003B.LectureActivity6.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c103d0ba-1a65-41ac-8cfb-a3ecdc1020de" name="Changes" comment="" />
+    <list default="true" id="c103d0ba-1a65-41ac-8cfb-a3ecdc1020de" name="Changes" comment="installed Nuget Packages for Entity Framework  Core">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/Models/Course.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/Models/Enrollment.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/Models/Student.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "briannaordaz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/briannaordaz/COMP003B.LectureActivity6",
+    "accountId": "84d2194e-eafb-4fdc-b652-3573ea34607f"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2wQLtT0TbQagSXI8X2B6b9neMbg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,15 +103,38 @@
       <workItem from="1737085495312" duration="162000" />
       <workItem from="1737091140881" duration="2013000" />
       <workItem from="1745964627237" duration="465000" />
-      <workItem from="1745969067484" duration="361000" />
+      <workItem from="1745969067484" duration="769000" />
     </task>
+    <task id="LOCAL-00001" summary="installed Nuget Packages for Entity Framework  Core">
+      <option name="closed" value="true" />
+      <created>1745969536264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745969536264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="installed Nuget Packages for Entity Framework  Core" />
+    <option name="LAST_COMMIT_MESSAGE" value="installed Nuget Packages for Entity Framework  Core" />
   </component>
 </project>
