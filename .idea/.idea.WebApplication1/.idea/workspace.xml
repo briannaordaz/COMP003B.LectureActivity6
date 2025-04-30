@@ -8,19 +8,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c103d0ba-1a65-41ac-8cfb-a3ecdc1020de" name="Changes" comment="" />
+    <list default="true" id="c103d0ba-1a65-41ac-8cfb-a3ecdc1020de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/COMP003B.LectureActivity6.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/COMP003B.LectureActivity6.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/Models/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/Models/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/COMP003B.LectureActivity6.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/COMP003B.LectureActivity6.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/COMP003B.LectureActivity6.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/COMP003B.LectureActivity6.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/Debug/net8.0/COMP003B.LectureActivity6.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/Debug/net8.0/COMP003B.LectureActivity6.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/Debug/net8.0/COMP003B.LectureActivity6.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/Debug/net8.0/COMP003B.LectureActivity6.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/Debug/net8.0/COMP003B.LectureActivity6.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/Debug/net8.0/COMP003B.LectureActivity6.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/Debug/net8.0/COMP003B.LectureActivity6.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/Debug/net8.0/COMP003B.LectureActivity6.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/COMP003B.LectureActivity6/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "briannaordaz"
   }
-}</component>
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/briannaordaz/COMP003B.LectureActivity6",
+    "accountId": "84d2194e-eafb-4fdc-b652-3573ea34607f"
+  }
+}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2wRI4nUucfZDjZT9VqJZaYwYfjL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.COMP003B.LectureActivity6: http">
     <configuration name="COMP003B.LectureActivity6: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/COMP003B.LectureActivity6/COMP003B.LectureActivity6.csproj" />
@@ -53,8 +100,10 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="c103d0ba-1a65-41ac-8cfb-a3ecdc1020de" name="Changes" comment="" />
       <created>1737081997441</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -65,8 +114,12 @@
       <workItem from="1737085495312" duration="162000" />
       <workItem from="1737091140881" duration="2013000" />
       <workItem from="1745964627237" duration="465000" />
+      <workItem from="1745997771905" duration="117000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />

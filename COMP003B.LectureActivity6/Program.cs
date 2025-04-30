@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using COMP003B.LectureActivity6.Data;
 namespace COMP003B.LectureActivity6;
 
 public class Program
@@ -8,6 +10,10 @@ public class Program
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
+        
+        // Set up the database context.
+        builder.Services.AddDbContext<WebDevAcademyContext>(options =>
+            options.UseSqlite(builder.Configuration.GetConnectionString("WebDevAcademyContext")));
 
         var app = builder.Build();
 

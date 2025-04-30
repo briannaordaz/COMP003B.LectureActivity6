@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP003B.LectureActivity6", "COMP003B.LectureActivity6\COMP003B.LectureActivity6.csproj", "{9F9855BA-813E-4E34-9910-C180F2C010AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP003B.LectureActivity6", "COMP003B.LectureActivity6\COMP003B.LectureActivity6.csproj", "{2B15E68F-6A3D-403E-BB5F-F27C7E11848B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{9F9855BA-813E-4E34-9910-C180F2C010AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F9855BA-813E-4E34-9910-C180F2C010AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F9855BA-813E-4E34-9910-C180F2C010AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B15E68F-6A3D-403E-BB5F-F27C7E11848B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B15E68F-6A3D-403E-BB5F-F27C7E11848B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B15E68F-6A3D-403E-BB5F-F27C7E11848B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B15E68F-6A3D-403E-BB5F-F27C7E11848B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

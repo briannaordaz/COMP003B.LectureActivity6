@@ -15,4 +15,5 @@ public class Student
     
     // Collection navigation property
     public virtual ICollection<Enrollment>? Enrollments { get; set; }
+    
 }
